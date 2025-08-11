@@ -34,4 +34,4 @@ const PriceOption = ({ option }) => {
   )
 }
 
-export default PriceOption
+export default PriceOption;
