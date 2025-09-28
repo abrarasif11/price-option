@@ -6,7 +6,7 @@ const PriceOptions = () => {
     {
       "id": 1,
       "name": "Basic Plan",
-      "price": 25.99,
+      "price": 25.99$,
       "features": [
         "Access to all gym equipment",
         "Free water station",
@@ -16,7 +16,7 @@ const PriceOptions = () => {
     {
       "id": 2,
       "name": "Standard Plan",
-      "price": 49.99,
+      "price": 49.99$,
       "features": [
         "Access to all gym equipment",
         "Group fitness classes",
@@ -27,7 +27,7 @@ const PriceOptions = () => {
     {
       "id": 3,
       "name": "Premium Plan",
-      "price": 79.99,
+      "price": 79.99$,
       "features": [
         "24/7 unlimited access",
         "All group classes included",
