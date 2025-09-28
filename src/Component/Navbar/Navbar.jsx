@@ -54,7 +54,7 @@ const Navbar = () => {
         </ul>
       </div>
       <div className="navbar-end">
-        <a className="btn">Load Price</a>
+        <a className="btn">Show Price</a>
       </div>
     </div>
   );
