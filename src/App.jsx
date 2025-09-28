@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <Navbar/>
-      <h1 className="text-2xl bg-amber-200 ">Price Option</h1>
+      <h1 className="text-3xl bg-amber-200 ">Price Option</h1>
      <PriceOptions/>
      <LineChart></LineChart>
     </>
